@@ -1,3 +1,5 @@
 *.gem
 pkg/
 rdoc/
+Gemfile.lock
+.bundle/
